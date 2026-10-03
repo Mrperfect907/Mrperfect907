@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:1E5E3F,100:2F6B47&height=200&section=header&text=Raju%20Kumar&fontSize=58&fontColor=ffffff&fontAlignY=32&desc=Environmental%20Data%20Analyst%20%C2%B7%20Geospatial%20%C2%B7%20ESG%20%26%20Carbon&descAlignY=54&descSize=18&animation=fadeIn" width="100%" />
+<img src="assets/header.svg" width="100%" alt="Raju Kumar — Environmental Data Analyst" />
 
 <div align="center">
 
@@ -186,4 +186,4 @@ Ten years of records analysed by **catchment**, not sampling point.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F6B47,50:1E5E3F,100:0B3D2E&height=110&section=footer" width="100%" />
+<img src="assets/footer.svg" width="100%" alt="" />
